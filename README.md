@@ -1,7 +1,5 @@
-# Data Science Portfolio 
-
 ## Dani Treisman
-#### _B.S. in Statisics from Loyola University Chicago_ 
+_B.S. in Statisics from Loyola University Chicago_ 
 
 ### Batting Order Optimization in R
 
