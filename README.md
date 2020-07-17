@@ -1,8 +1,8 @@
-# Dani Treisman
+# Data Science Portfolio
+##
+## Dani Treisman
 ### B.S. in Statisics from Loyola University Chicago
-# 
-## Data Science Portfolio
-
+##
 ### Batting Order Optimization in R
 
 * Comparison of several batting order strategies based on real batting statistics of the Chicago Cubs 2018 most used batting order (according to baseball-reference.com)
