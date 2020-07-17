@@ -11,5 +11,5 @@
   + Optimized order through simulation
   + Lineup based on On Base Percentage (decreasing)
 
-See the full report [here](https://github.com/dtreisman/Baseball-Simulation-in-R/blob/master/Batting%20Order%20Optimization.pdf)
-See the repo with code [here](https://github.com/dtreisman/Baseball-Simulation-in-R)
+See the full report [here](https://github.com/dtreisman/Baseball-Simulation-in-R/blob/master/Batting%20Order%20Optimization.pdf).  
+See the repo with code [here](https://github.com/dtreisman/Baseball-Simulation-in-R).
