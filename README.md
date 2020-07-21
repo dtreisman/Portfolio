@@ -14,3 +14,13 @@ _B.S. in Statisics from Loyola University Chicago_
 
 See the full report [here](https://github.com/dtreisman/Baseball-Simulation-in-R/blob/master/Batting%20Order%20Optimization.pdf).  
 See the repo with code [here](https://github.com/dtreisman/Baseball-Simulation-in-R).
+
+### Predicting House Prices in R
+
+* Predicting house prices using machine learning
+  + Multiple Imputation
+  + Cross Validation
+  + Gradient Boosting
+
+See the full report [here](https://github.com/dtreisman/HousingPricesPredicitions/blob/master/HousingPrices%20-%20Predicitve%20Analysis.pdf).  
+See the repo with code [here](https://github.com/dtreisman/HousingPricesPredicitions).
