@@ -1,5 +1,7 @@
 ## Dani Treisman
-_B.S. in Statisics from Loyola University Chicago_ 
+_B.S. in Statisics from Loyola University Chicago_
+
+_This page is a work in progress..._
 
 ### Batting Order Optimization in R
 
