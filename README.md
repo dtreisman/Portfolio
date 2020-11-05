@@ -14,6 +14,8 @@ _This page is a work in progress..._
   + Optimized order through simulation
   + Lineup based on On Base Percentage (decreasing)
 
+(This project was a simulation/coding exercise. It would make more sense to use Markov Chains but this project was before I had and understanding of MC's.)
+
 See the full report [here](https://github.com/dtreisman/Baseball-Simulation-in-R/blob/master/Batting%20Order%20Optimization.pdf).  
 See the repo with code [here](https://github.com/dtreisman/Baseball-Simulation-in-R).
 
