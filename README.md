@@ -3,6 +3,11 @@ _B.S. in Statisics from Loyola University Chicago_
 
 _This page is a work in progress..._
 
+### A Framework for Assessing Goal Scoring and Play Making Skill in the NWHL
+* The innaugural Big Data Cup, a hockey analytics competition run by [Stathletes](https://www.stathletes.com/big-data-cup/), set out to provide new opportunity for hockey analytics and to promote women's hockey and research. For the competition, I attempted to create a framework for assesing player skill in terms of shooting and passing ability. I used a layered approach, first building a model for expected goals (*xG*) on every shot, then using those predictions as the response in Generalized Linear Mixed Models to determine player effects. I found that the random intercepts for players' shooting ability correlated with the estimated *xG* on shots with an R-squared of 0.19. The league's best shooters generated an estimated 0.83 to 0.16 *xG* based on skill alone, adjusted for other situational factors.
+
+The repo can be found [here](https://github.com/dtreisman/BigDataCup2021)
+
 ### Tackle Probability and the Value of a Tackle  
 * For this year's [Big Data Bowl](https://operations.nfl.com/gameday/analytics/big-data-bowl/), a data science competition hosted by the NFL on [Kaggle](www.kaggle.com), I attemted to quantify the value of a tackle by a defensive player in the NFL using the supplied player tracking data. There are many metrics for evaluating offensive players, so for this year's Big Data Bowl, the challenge was to find ways to better evaluate defense in an NFL game. Since they left the submission requirements open ended, we were free to come up with our own ideas rather than try to build the best model to compare against true values, like in most Kaggle competitions. 
 * For my model, I used player tracking information such as the *x* and *y* coordinated of each player, as well as the *defender distance to the receiver* to predict the probability of each player making the tackle. I utilized extreme gradient boosting with `{xgboost}` and built a multiclass classifier to predict the tackle probability for each defensive player on the field. 
