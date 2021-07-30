@@ -3,6 +3,12 @@ _B.S. in Statisics from Loyola University Chicago_
 
 _This page is a work in progress..._
 
+### Analyzing Route ad Coverage Combinations in the NFL
+* The prompt for the 2021 Sports Info Solutions Analytics Challenge was: *Which route combinations were most popular in the NFL in 2020? Of these route combinations, which perform best against each coverage type?*. For my submission, I analyzed route and coverage combinations and their effect on completion probablity.
+
+The repo with the code and detailed report can be found [here](https://github.com/dtreisman/SISAnalyticsChallenge2021)
+
+
 ### A Framework for Assessing Goal Scoring and Play Making Skill in the NWHL
 * The innaugural Big Data Cup, a hockey analytics competition run by [Stathletes](https://www.stathletes.com/big-data-cup/), set out to provide new opportunity for hockey analytics and to promote women's hockey and research. For the competition, I attempted to create a framework for assesing player skill in terms of shooting and passing ability. I used a layered approach, first building a model for expected goals (*xG*) on every shot, then using those predictions as the response in Generalized Linear Mixed Models to determine player effects. I found that the random intercepts for players' shooting ability correlated with the estimated *xG* on shots with an R-squared of 0.14. The league's best shooters generated an estimated 0.083 to 0.16 *xG* based on skill alone, adjusted for other situational factors.
 
