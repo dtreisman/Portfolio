@@ -3,6 +3,12 @@ _B.S. in Statisics from Loyola University Chicago_
 
 _This page is a work in progress..._
 
+### An Analysis of Quarterback Ability to Hit Receivers In-Stride Using NFL Player Tracking Data
+*  This report is an investigation into the ability of NFL quarterbacks to hit receivers *in-stride*. This 'ability' is defined here as the quarterback's skill in preventing extreme orientation, acceleration, and speed changes for the receiver (i.e. back-shoulder catches), from the moment of the throw to the moment the pass arrives at the receiver. This work provides a starting point for more specific methods of quarterback evaluation using frame-level player tracking data and provides evidence that quarterbacks to do have some ability to hit receivers in-stride. The main findings in this paper are: 1) the aggregated (by QB) *observed-expected* values for receiver Acceleration Difference Over Expected correlate moderately with average Completion Probability Over Expected (CPOE), 2) Average (by QB) receiver Speed Difference Over Expected and Yards After Catch difference from pass forward to pass arrival (xYAC Difference) are highly correlated, and 3) average Acceleration and Speed differences Over Expected are stable for QBs within-season.
+
+The repo with the code and detailed report can be found [here](https://github.com/dtreisman/NFL_InStrideAccuracy)
+
+
 ### Analyzing Route ad Coverage Combinations in the NFL
 * The prompt for the [2021 Sports Info Solutions Analytics Challenge](https://github.com/SportsInfoSolutions/AnalyticsChallenge2021) was: *Which route combinations were most popular in the NFL in 2020? Of these route combinations, which perform best against each coverage type?*. For my submission, I analyzed route and coverage combinations and their effect on completion probablity.
 
