@@ -9,7 +9,7 @@ _This page is a work in progress..._
 The repo with the code and detailed report can be found [here](https://github.com/dtreisman/NFL_InStrideAccuracy)
 
 
-### Analyzing Route ad Coverage Combinations in the NFL
+### Analyzing Route and Coverage Combinations in the NFL
 * The prompt for the [2021 Sports Info Solutions Analytics Challenge](https://github.com/SportsInfoSolutions/AnalyticsChallenge2021) was: *Which route combinations were most popular in the NFL in 2020? Of these route combinations, which perform best against each coverage type?*. For my submission, I analyzed route and coverage combinations and their effect on completion probablity.
 
 The repo with the code and detailed report can be found [here](https://github.com/dtreisman/SISAnalyticsChallenge2021)
