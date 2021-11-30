@@ -7,6 +7,7 @@ _This page is a work in progress..._
 *  This report is an investigation into the ability of NFL quarterbacks to hit receivers *in-stride*. This 'ability' is defined here as the quarterback's skill in preventing extreme orientation, acceleration, and speed changes for the receiver (i.e. back-shoulder catches), from the moment of the throw to the moment the pass arrives at the receiver. This work provides a starting point for more specific methods of quarterback evaluation using frame-level player tracking data and provides evidence that quarterbacks to do have some ability to hit receivers in-stride. The main findings in this paper are: 1) the aggregated (by QB) *observed-expected* values for receiver Acceleration Difference Over Expected correlate moderately with average Completion Probability Over Expected (CPOE), 2) Average (by QB) receiver Speed Difference Over Expected and Yards After Catch difference from pass forward to pass arrival (xYAC Difference) are highly correlated, and 3) average Acceleration and Speed differences Over Expected are stable for QBs within-season.
 
 The repo with the code and detailed report can be found [here](https://github.com/dtreisman/NFL_InStrideAccuracy)
+The recorded presentation can be found [here](https://www.youtube.com/watch?v=_wI7nHjozTk)
 
 
 ### Analyzing Route and Coverage Combinations in the NFL
