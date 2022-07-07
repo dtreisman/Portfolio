@@ -3,6 +3,15 @@ _B.S. in Statisics from Loyola University Chicago_
 
 _This page is a work in progress..._
 
+### Daily MLB Active Roster Scraper  
+
+*  There is currently no public data source for daily active MLB rosters that includes the player IDs *and* specific player positions (rather than the general categories the MLB api provides). This repo provides a script to pull the current daily active rosters from ESPN team roster pages and is scheduled using Github Actions in order to compile a data source for historical active rosters by day with specific position information.
+The first available day of rosters is 07/05/2022. Data is updated at 20:00 UTC.
+
+The repo can be found [here](https://github.com/dtreisman/DailyMLBRosters)  
+
+
+
 ### An Analysis of Quarterback Ability to Hit Receivers In-Stride Using NFL Player Tracking Data
 *  This report is an investigation into the ability of NFL quarterbacks to hit receivers *in-stride*. This 'ability' is defined here as the quarterback's skill in preventing extreme orientation, acceleration, and speed changes for the receiver (i.e. back-shoulder catches), from the moment of the throw to the moment the pass arrives at the receiver. This work provides a starting point for more specific methods of quarterback evaluation using frame-level player tracking data and provides evidence that quarterbacks do have some ability to hit receivers in-stride. The main findings in this paper are: 1) the aggregated (by QB) *observed-expected* values for receiver Acceleration Difference Over Expected correlate moderately with average Completion Probability Over Expected (CPOE), 2) Average (by QB) receiver Speed Difference Over Expected and Yards After Catch difference from pass forward to pass arrival (xYAC Difference) are highly correlated, and 3) average Acceleration and Speed differences Over Expected are stable for QBs within-season.
 
