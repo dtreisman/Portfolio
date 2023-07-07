@@ -1,5 +1,5 @@
 ## Dani Treisman
-_M.S. in Data Science from Depaul University_
+_M.S. in Data Science from Depaul University_  
 _B.S. in Statistics from Loyola University Chicago_
 
 _This page is a work in progress..._
